@@ -563,6 +563,11 @@ button.buy {
 	background-color: #f1c40f;
 }
 
+.tools{
+	display: flex;
+	justify-content: space-around;
+	row-gap: 40px;
+}
 .dimag img {
 	width: 300px;
 	position: absolute;
@@ -808,6 +813,7 @@ footer p {
 			font-weight: 700;
 		}
 
+		
 		button .launch {
 			font-weight: 900;
 		}
